@@ -514,11 +514,11 @@ second color: #08526d */
     height: 100%;
 }
 
-.choose-us .col-sm-6 {
+.choose-us .col-xs-6 {
     padding: 0;
 }
 
-.choose-us .col-sm-6:last-child {
+.choose-us .col-xs-6:last-child {
     background-color: #08526d;
     color: white;
     padding-top: 50px;
