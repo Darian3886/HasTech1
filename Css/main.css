@@ -545,20 +545,6 @@ second color: #08526d */
     text-transform: uppercase;
 }
 
-@media (max-width: 768px) {
-    .choose-us .choose-us-image {
-        display: none;
-    }
-    .choose-us .choose-us-text {
-        margin-left: 25%;
-        text-align: center;
-    }
-    .choose-us a {
-        margin: 0;
-        margin-bottom: 10px;
-    }
-}
-
 
 /* <!--End Why Choose Us--> */
 
