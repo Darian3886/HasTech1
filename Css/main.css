@@ -142,6 +142,13 @@ second color: #08526d */
     z-index: 4;
 }
 
+@media (max-width: 767.98px) {
+    .slider .carousel-inner h1,
+    .slider .carousel-inner h1 span {
+        font-size: 30px;
+    }
+}
+
 
 /* <!--End Slider--> */
 
@@ -213,6 +220,15 @@ second color: #08526d */
     padding: 10px 30px;
     border: 1px solid #ec1c23;
     cursor: pointer;
+}
+
+@media (max-width: 767.98px) {
+    .overview p {
+        line-height: 1;
+        font-size: 15px;
+        width: 100%;
+        color: #6a6a6a;
+    }
 }
 
 
